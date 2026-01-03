@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aditya 👋  <br>A passionate Frontend Developer from India 🇮🇳 with a strong interest in Data Science and AI/ML.<br><br>I enjoy building clean, responsive, and user-friendly web interfaces using modern frontend technologies. Alongside frontend development, I’m actively learning Python, Machine Learning fundamentals, and data analysis to expand my skill set toward intelligent, data-driven applications.<br><br>I believe in learning by building projects, solving real-world problems, and continuously improving my technical skills.<br>
+Hi, I’m Aditya 👋  <br>A passionate Frontend Developer from Pune, Maharashtra, India with a strong interest in Data Science and AI/ML.<br><br>I enjoy building clean, responsive, and user-friendly web interfaces using modern frontend technologies. Alongside frontend development, I’m actively learning Python, Machine Learning fundamentals, and data analysis to expand my skill set toward intelligent, data-driven applications.<br><br>I believe in learning by building projects, solving real-world problems, and continuously improving my technical skills.<br>
 
 
 ## 🌐 Socials:
